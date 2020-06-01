@@ -17,4 +17,4 @@
 <li>web pack</li>
 </ul>
 
-<p>cold rebuild form dicoing course by Rahma yudistira</p>
+<p>cold rebuild form dicoding course by Rahma yudistira</p>
